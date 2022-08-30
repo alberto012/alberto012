@@ -2,6 +2,7 @@
 <h3 align="center">FullStack Dev/web Design y actualmente estudio la tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales.</h3>
 
 - E-commerce's de ventas de libros en todos sus formatos, los cuales te permiten navegar y descubrir libros en nuestra base de datos, comprarlos y agregarlos a favoritos [e-Knows](eknows.herokuapp.com)
+- Para mi proyecto individual de Henry cree una SPA (Single Page Application) utilizando ReactJs y Redux para Front-End y el área de Back-End fue desarrollada con NodeJs, Express, PostgreSQL y Sequelize. La aplicación cuenta con una página principal donde se pueden visualizar todos los videojuegos, la posibilidad de entrar al detalle de alguno en particular, filtrar por diferentes tipos de juegos , ordenar por rating, generos, por creados y alfabéticamente; permite también la búsqueda por nombre y recorrer todas los juegos existentes en diversas páginas. El usuario también cuenta con la posibilidad de crear una nuevo juego y añadirlo a la base de datos. El estilo de los componentes fue realizado sin uso de librerias externas, para los mismos se empleo CSS puro. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
